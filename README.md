@@ -1,4 +1,4 @@
-# Data Structures portfolio-project
+# Data Structures Portfolio Project
 
 # Undirected Graph:
 1. Implement the UndirectedGraph class, designed to support the following type of
